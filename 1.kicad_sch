@@ -5607,6 +5607,16 @@
 		)
 		(uuid "ffd4f1b6-846a-42aa-9b6a-b5e6f3e1a1a3")
 	)
+	(label "123"
+		(at 140.97 30.48 0)
+		(effects
+			(font
+				(size 2.8194 2.8194)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d094a52-f38f-4039-9e72-16c47ed20ee6")
+	)
 	(symbol
 		(lib_id "Device:C")
 		(at 123.19 100.33 0)
